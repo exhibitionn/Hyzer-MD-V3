@@ -6,8 +6,8 @@ global.prems = []
 //=============『 Info Owner 』============== //
 global.nameowner = 'Aditタ'
 global.numberowner = '62895402127803'
-global.instagram = 'https://instagram.com/ditt_turu?igshid=YmMyMTA2M2Y='
-global.github = 'https://github.com/Xzcyy'
+global.instagram = 'https://instagram.com/adityaokir_?igshid=YmMyMTA2M2Y='
+global.github = '-'
 global.dana = '-'
 global.pulsa = '0895402127803'
 global.gopay = '089502191993'
@@ -15,7 +15,7 @@ global.gopay = '089502191993'
 //=============『 Info Bot 』=================//
 global.namebot = 'Anyaあ⁩'
 global.gc = '-'
-global.web = 'https://github.com/Xzcyy' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
+global.web = 'https://instagram.com/adityaokir_?igshid=YmMyMTA2M2Y=' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
 global.price1 = '1 bulan = 10.000\n2 Minggu 7.000\n1 Minggu 5.000'
 
 //=======『 Tampilan Dan Lainnya 』============//
